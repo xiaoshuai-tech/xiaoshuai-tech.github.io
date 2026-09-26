@@ -1,0 +1,71 @@
+{
+  "hugoblox": {
+    "schema": "2.0",
+    "identity": {
+      "name": "Shuai Xiao",
+      "type": "person",
+      "description": "Shuai Xiao, Associate Professor at Tianjin University. Biography, education, publications, awards, and academic services."
+    },
+    "theme": {
+      "mode": "light",
+      "pack": "default"
+    },
+    "typography": {
+      "pack": "academic"
+    },
+    "layout": {
+      "radius": "md",
+      "spacing": "comfortable",
+      "avatar_shape": "circle"
+    },
+    "header": {
+      "enable": true,
+      "style": "navbar",
+      "sticky": true,
+      "align": "center",
+      "search": false,
+      "theme_toggle": true,
+      "theme_picker": false,
+      "language_switcher": false
+    },
+    "footer": {
+      "style": "minimal",
+      "language_switcher": false,
+      "text": "<a href=\"#home\">Back to top</a> · <button type=\"button\" class=\"print-link\" onclick=\"window.print()\">Print / Save as PDF</button>"
+    },
+    "copyright": {
+      "notice": "© {year} {name} · Tianjin University"
+    },
+    "seo": {
+      "title": "Shuai Xiao | Tianjin University"
+    },
+    "content": {
+      "toc": {
+        "enable": false
+      },
+      "reading_time": {
+        "enable": false
+      },
+      "math": {
+        "enable": false
+      }
+    },
+    "search": {
+      "enable": false
+    },
+    "comments": {
+      "enable": false
+    },
+    "repository": {
+      "enable": false
+    },
+    "pro": {
+      "hide_attribution": false
+    },
+    "analytics": {
+      "google": {
+        "measurement_id": ""
+      }
+    }
+  }
+}

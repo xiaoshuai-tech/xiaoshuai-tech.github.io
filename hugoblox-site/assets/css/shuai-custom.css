@@ -1,0 +1,62 @@
+/* Small content-specific adaptations; layout and components are HugoBlox Academic CV. */
+html { scroll-padding-top: 6rem; }
+#bio { scroll-margin-top: 9rem; }
+#education > .flex, #publications > .flex, #awards > .flex, #services > .flex {
+  max-width: 1060px;
+  width: 100%;
+}
+#education .prose, #publications .prose, #awards .prose, #services .prose {
+  max-width: none;
+  width: 100%;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+}
+#education h2, #publications h2, #awards h2, #services h2 { margin: 0 0 1.5rem; }
+.resume-biography h3 { font-size: 1.3rem; line-height: 1.45; }
+.profile-contact a, .publication-item a, .publication-intro a {
+  color: var(--color-primary-600, #4f46e5);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+.profile-contact a:hover, .publication-item a:hover, .publication-intro a:hover {
+  color: var(--color-primary-800, #3730a3);
+}
+.profile-contact a:focus-visible, .publication-item a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+.publication-intro { margin: 0 0 .75rem !important; }
+.publication-note { margin: 0 0 2rem !important; font-size: .95rem; }
+.prose .publication-year { margin: 2rem 0 1.25rem; }
+.prose .publication-list { margin: 0; padding-left: 1.8rem; }
+.prose .publication-item { margin: 0 0 1.65rem; padding-left: .4rem; }
+.prose .publication-item h4 { margin: 0 0 .3rem; font-size: 1.1rem; line-height: 1.55; font-weight: 650; }
+.prose .publication-item p { margin: .2rem 0; font-size: 1rem; line-height: 1.6; }
+.prose .publication-item .venue { color: #475569; }
+.prose .publication-item .paper-links { margin-top: .35rem; font-size: .94rem; }
+.doi { overflow-wrap: anywhere; }
+.prose .experience-list { padding: 0; margin: 0; list-style: none; }
+.prose .experience-list li { display: grid; grid-template-columns: 210px 1fr; gap: 1.5rem; margin: 0 0 1.3rem; padding: 0; }
+.experience-list .dates { color: #64748b; }
+.dark #education, .dark #awards, .dark #education .home-section-bg, .dark #awards .home-section-bg { background-color: #111827 !important; }
+.dark #publications, .dark #services, .dark #publications .home-section-bg, .dark #services .home-section-bg { background-color: #0f172a !important; }
+.dark .publication-item .venue, .dark .experience-list .dates { color: #cbd5e1; }
+.dark .profile-contact a, .dark .publication-item a, .dark .publication-intro a { color: #a5b4fc; }
+.dark .profile-contact a:hover, .dark .publication-item a:hover, .dark .publication-intro a:hover { color: #c7d2fe; }
+.print-link { cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 639px) {
+  .prose .experience-list li { grid-template-columns: 1fr; gap: .15rem; }
+  #education .prose, #publications .prose, #awards .prose, #services .prose { font-size: 1rem; }
+  .prose .publication-item h4 { font-size: 1rem; }
+  .prose .publication-item p { font-size: .95rem; }
+  .prose .publication-item .paper-links { font-size: .875rem; }
+}
+@media print {
+  header, .theme-toggle, footer { display: none !important; }
+  body, .hbb-section, .home-section-bg, .dark .hbb-section, .dark .home-section-bg { background: white !important; color: #111 !important; }
+  .resume-biography { padding: 1rem 0 !important; }
+  .resume-biography img { width: 112px !important; height: 112px !important; }
+  .hbb-section { padding: 1rem 0 !important; }
+  .publication-item, .experience-list li { break-inside: avoid; }
+  a { color: #111 !important; }
+}

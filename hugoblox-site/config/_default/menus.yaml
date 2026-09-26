@@ -1,0 +1,34 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/#home",
+      "weight": 10
+    },
+    {
+      "name": "Bio",
+      "url": "/#bio",
+      "weight": 11
+    },
+    {
+      "name": "Education & Experience",
+      "url": "/#education",
+      "weight": 12
+    },
+    {
+      "name": "Publications",
+      "url": "/#publications",
+      "weight": 13
+    },
+    {
+      "name": "Awards",
+      "url": "/#awards",
+      "weight": 14
+    },
+    {
+      "name": "Academic Services",
+      "url": "/#services",
+      "weight": 15
+    }
+  ]
+}

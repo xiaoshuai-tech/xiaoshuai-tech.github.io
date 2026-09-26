@@ -2,4 +2,13 @@ sources.md
 publication-candidates.json
 publication-metadata.json
 qa-website.cjs
+qa-hugoblox.cjs
 qa-*.png
+build-tools/
+hugoblox-site/node_modules/
+hugoblox-site/public/
+hugoblox-site/public-final/
+hugoblox-site/resources/
+hugoblox-site/.git/
+hugoblox-site/.hugo_build.lock
+hugoblox-site/hugo_stats.json

@@ -1,0 +1,32 @@
+title: "Shuai Xiao"
+baseURL: "https://xiaoshuai-tech.github.io/"
+contentDir: content-shuai
+staticDir: static-shuai
+disableKinds: [taxonomy, term, RSS]
+defaultContentLanguage: en
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+build:
+  writeStats: true
+enableGitInfo: false
+summaryLength: 30
+enableEmoji: true
+enableRobotsTXT: true
+disableAliases: true
+outputs:
+  home: [HTML]
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+timeout: 600000
+markup:
+  _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
