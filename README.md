@@ -1,41 +1,44 @@
-# Shuai Xiao — Academic Profile
+# Shuai Xiao — Academic Homepage
 
-An English academic homepage for Associate Professor Shuai Xiao at Tianjin University. The site is a lightweight, responsive static website designed for GitHub Pages.
+English academic homepage for Shuai Xiao at Tianjin University.
 
-## Preview locally
+- Public site: https://xiaoshuai-tech.github.io/
+- Repository: https://github.com/xiaoshuai-tech/xiaoshuai-tech.github.io
+- GitHub Pages: main branch, / (root).
 
-Open `index.html` directly in a browser, or run a local static server from this folder:
+## Sections
 
-```powershell
+Profile, Brief Bio, Education & Experience, Publications, Awards, and Academic Services. No News or Projects. The publication section contains 30 journal papers from 2022–2026, grouped by year in descending order. Each title and [Paper] links to its registered DOI.
+
+The presentation follows the simple white-background academic layout requested by the site owner: portrait on the left, profile on the right.
+
+## Preview
+
+Run a static HTTP server from this directory, then open http://localhost:8000/:
+
+~~~powershell
 python -m http.server 8000
-```
+~~~
 
-Then visit `http://localhost:8000`.
+## Editing
 
-## Publish with GitHub Pages
+- index.html: profile and publication content
+- styles.css: desktop, mobile, and print layouts
+- script.js: mobile navigation and print button
+- assets/shuai-xiao.jpg: portrait
 
-1. The target repository is [xiaoshuai-tech/shuaixiao.github.io](https://github.com/xiaoshuai-tech/shuaixiao.github.io).
-2. Upload the website files in this folder, including `.nojekyll` and the `assets` directory. Keep `sources.md` as a local review note.
-3. Open **Settings → Pages** in the GitHub repository.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and the `/ (root)` folder, then save.
-6. After deployment finishes, the default public URL for this project repository is `https://xiaoshuai-tech.github.io/shuaixiao.github.io/`.
+All paths are relative so the site can be served both at the account root and under a project path. A build framework is not required; .nojekyll disables Jekyll processing.
 
-For a root homepage at `https://xiaoshuai-tech.github.io/`, the repository must instead be named `xiaoshuai-tech.github.io` under the same owner. This repository does not grant ownership of `https://shuaixiao.github.io/`.
+## Content sources and review status
 
-## Content editing
+- Faculty biography, appointments, awards, and reviewing: https://seea.tju.edu.cn/info/1015/3742.htm
+- Publication identity and DOI discovery: https://dblp.org/pid/120/4356-1.html
+- Article titles, complete author lists, venues, volumes, pages, and years: publisher-deposited Crossref metadata for each DOI, with PubMed checks for the 2026 TNNLS and JBHI papers.
+- Google Scholar profile link: https://scholar.google.com/citations?user=A52OoroAAAAJ&hl=en
+- Layout reference: https://ruizhao26.github.io/
 
-- Main profile content: `index.html`
-- Colors, typography, and page layout: `styles.css`
-- Portrait: `assets/shuai-xiao.jpg`
-- Mobile navigation and print button: `script.js`
+Google Scholar could not be read automatically during this update; it was not used as the sole metadata source. This is a 30-paper selected-publication review list, not a certified CAS-ranking list. Public university-library JCR records were consulted to prioritize Q1 journals (records showing 2024 impact-factor data). JCR quartiles and CAS divisions/Top designations are different; the requested CAS-specific screening remains subject to the owner's confirmation and verification. No unverified ranking or corresponding-author symbols are shown.
 
-Before sharing the public URL for an AE application, Professor Xiao should verify the English title, selected publications, corresponding-author marks, academic service, and postal address.
+The faculty page does not provide award years or editorial-board appointments, so these have not been invented. Professor Xiao should confirm the English translations of appointment and award names before using the page for an AE application.
 
-## Public sources used for the draft
-
-- [Tianjin University faculty profile](https://seea.tju.edu.cn/info/1015/3742.htm)
-- [Google Scholar profile](https://scholar.google.com/citations?user=A52OoroAAAAJ&hl=en)
-- [Rui Zhao academic homepage](https://ruizhao26.github.io/) — information-architecture reference
-
-The profile photograph was obtained from the public Tianjin University faculty page.
+Local metadata, candidate lists, QA scripts/screenshots, and sources.md are review materials and are not part of the published site.
