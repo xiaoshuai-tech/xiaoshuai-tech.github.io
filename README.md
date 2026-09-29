@@ -47,7 +47,7 @@ Search is disabled, so a Pagefind index is not required. The current release was
 
 - Faculty biography, appointments, awards, and reviewing: https://seea.tju.edu.cn/info/1015/3742.htm
 - Publication identity and DOI discovery: https://dblp.org/pid/120/4356-1.html
-- New application source: `C:/Users/lxd/Desktop/附件1.“攀登计划”项目申请书.doc` (private review material; never publish the full document). It provides the selected papers, awards, and editorial/committee service.
+- Owner-provided application document (private review material; not published). It provides the selected papers, awards, and editorial/committee service.
 - Article titles, author lists, venues, volumes, pages, and years: publisher-deposited Crossref metadata and official conference/publisher pages where available.
 - Google Scholar profile link: https://scholar.google.com/citations?user=A52OoroAAAAJ&hl=en
 - Original content/section reference: https://ruizhao26.github.io/
