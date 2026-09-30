@@ -1,12 +1,26 @@
 # Publication audit — Shuai Xiao homepage
 
-## Display-only asterisk convention — latest revision
-
-At the owner's explicit request, the current public page puts an asterisk after the **last two listed authors of each of the 19 papers**, regardless of the evidence for actual correspondence. These are provisional display markers, **not verified corresponding-author claims**. This conflicts with original author notes for some papers: the [2026 ICML stenosis-editing manuscript](https://arxiv.org/html/2605.08851) identifies Zhuo Zhang, who is not among its final two authors; the [scChord proceedings PDF](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26bz/zhang26bz.pdf) identifies Kangjun Jin and Shuai Xiao; and the [AAAI translational-correction PDF](https://ojs.aaai.org/index.php/AAAI/article/download/37253/41215) identifies Zhuo Zhang. This convention should not be used as a factual corresponding-author list in an application or CV without paper-by-paper confirmation. The evidence-backed findings below are retained for audit.
-
 ## Current site revision — 30 September 2026
 
-The homepage now shows **19** papers. The journal criterion is **CAS 2025 major-category Zone 1**; the conference criterion remains the CCF 2026 seventh-edition A list. This intentionally excludes JCR-Q1 journals that are CAS Zone 2 or lower. The [CAS institute says it stopped updating the journal partition list after 2025](https://cssar.cas.cn/library/dtxx/202604/t20260409_8183275.html); the independent 2026 “新锐分区” is not treated as an official CAS update. CAS classification data below is corroborated by public journal directories and should be checked against an institution's licensed CAS table before formal submission.
+The public page now shows **24** papers: all 19 retained from the previous site, plus five additions. Selection uses the last official **CAS 2025 major-category Zone 1** list or a full paper at a **CCF seventh-edition A** conference; papers are ordered by formal journal/proceedings year from newest to oldest, without visible year labels. Google Scholar was read directly for discovery; it does not by itself establish journal rank, formal publication, or corresponding authorship. The owner-supplied application document is the **only source of displayed asterisks**: ten entries explicitly show `S Xiao*`, while every other paper has no marker. An unmarked name is unresolved, not a verified non-corresponding author. The page no longer applies the previous last-two-author convention.
+
+| Added paper | Year | Venue and identity evidence | CAS 2025 major category | Application * |
+|---|---:|---|---|---|
+| [Temporal Evolution-Aware Adaptive Sampling](https://ieeexplore.ieee.org/abstract/document/11667066/) | 2026 | TCSVT; [Scholar record](https://scholar.google.com/citations?user=A52OoroAAAAJ&hl=en) lists all nine authors including Xiao; application concurs. A separate Loughborough bibliography truncates the author list and omits Xiao. | [Zone 1](https://www.iikx.com/sci/technology/13003.html) | None |
+| [Mixture of Lie-Group Kernels](https://doi.org/10.1109/TNNLS.2026.3734447) | 2026 | TNNLS; [PubMed](https://pubmed.ncbi.nlm.nih.gov/42776867/) lists DOI, all nine authors and 23 Sep. 2026 online date. | [Zone 1](https://www.iikx.com/sci/technology/18373.html) | Not listed; none |
+| [Learning-Aided Equivariant Filtering](https://doi.org/10.1016/j.engappai.2026.115050) | 2026 | EAAI; [dblp record](https://dblp.org/rec/journals/eaai/WenWHXXY26.html) lists Xiao and DOI. | [Zone 1](https://www.iikx.com/sci/technology/12154.html) | Not listed; none |
+| [Curvature Index of Image Samples](https://doi.org/10.1016/j.engappai.2024.109044) | 2024 | EAAI; [publisher record](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012028) lists Xiao, DOI and 2024 volume. | [Zone 1](https://www.iikx.com/sci/technology/12154.html); the 2024 CAS edition was Zone 2 | Not listed; none |
+| [Multi-AUV Inspection](https://doi.org/10.1109/JAS.2023.123117) | 2023 | IEEE/CAA JAS; [publisher record](https://www.ieee-jas.net/article/doi/10.1109/JAS.2023.123117) lists Xiao, DOI and identifies it as a journal letter. | [Zone 1](https://www.caa.org.cn/Content/58.html) | Not listed; none |
+
+The application lists the 2022 [No-Reference Quality Assessment of Stereoscopic Video](https://www.sigmm.org/opentoc/QoEVMA2022-TOC) as ACMMM A, but the official ACM SIGMM table of contents identifies it as a **QoEVMA workshop** paper, not the A-ranked main conference. It is therefore excluded. [Disentangled Information Quantification for Dataset Construction in Data-Centric AI](https://openreview.net/pdf?id=vrUqxxnU9A) is visibly marked *under review* in the available ICLR manuscript and is not included without a verified acceptance/publication. Preprints and CAS Zone 2-or-lower journals from the profile are also excluded.
+
+Important star conflict: the application marks `S Xiao*` on the 2026 ICML stenosis-editing paper, but the [author manuscript](https://arxiv.org/html/2605.08851) names Zhuo Zhang as corresponding author. The displayed star follows the owner's explicit instruction to use the application, **not** a paper-level verification of the actual corresponding author. Professor Xiao should resolve this before using the page as a definitive CV or application record.
+
+## Previous 19-paper revision — historical record
+
+### Former 19-paper screening — 30 September 2026
+
+The previous homepage showed **19** papers. The journal criterion was **CAS 2025 major-category Zone 1**; the conference criterion was the CCF 2026 seventh-edition A list. This intentionally excluded JCR-Q1 journals that are CAS Zone 2 or lower. The [CAS institute says it stopped updating the journal partition list after 2025](https://cssar.cas.cn/library/dtxx/202604/t20260409_8183275.html); the independent 2026 “新锐分区” is not treated as an official CAS update. CAS classification data below is corroborated by public journal directories and should be checked against an institution's licensed CAS table before formal submission.
 
 ### Excluded in this revision
 
