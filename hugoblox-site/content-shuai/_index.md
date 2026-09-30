@@ -60,7 +60,7 @@ sections:
       text: |-
         <h2 id="publications-title">Publications</h2>
         <p class="publication-intro">Selected publications, listed from recent to earlier work. <a href="https://scholar.google.com/citations?user=A52OoroAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>.</p>
-        <p class="publication-note">The list primarily features CAS Zone 1 journals and A-tier conferences, plus two additional papers from the project application. Click a title or [Paper] to open the article.</p>
+        <p class="publication-note">The list primarily features CAS Zone 1 journals and A-tier conferences. Click a title or [Paper] to open the article.</p>
         <ol class="publication-list">
         <li class="publication-item">
         <h4><a href="https://icml.cc/virtual/2026/poster/62334" target="_blank" rel="noopener noreferrer">Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport</a></h4>
