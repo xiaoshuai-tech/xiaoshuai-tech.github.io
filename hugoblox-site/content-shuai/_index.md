@@ -81,6 +81,18 @@ sections:
         <p class="paper-links"><a href="https://doi.org/10.1609/aaai.v40i4.37253" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Automatic Translational Correction of Multi-View Coronary Angiography Based on Auto-Annotation Data Generation">[Paper]</a></p>
         </li>
         <li class="publication-item">
+        <h4><a href="https://papers.miccai.org/miccai-2026/0138-Paper4072.html" target="_blank" rel="noopener noreferrer">CAG-WM: A Synthetic-Data-Driven Coronary World Model for Autonomous Guidewire Navigation</a></h4>
+        <p class="authors">Yue Cao, Zhuo Zhang, Xiaoshan Peng, Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiachen Yang.</p>
+        <p class="venue"><em>Medical Image Computing and Computer Assisted Intervention (MICCAI)</em>, 2026.</p>
+        <p class="paper-links"><a href="https://papers.miccai.org/miccai-2026/0138-Paper4072.html" target="_blank" rel="noopener noreferrer" aria-label="Read paper: CAG-WM: A Synthetic-Data-Driven Coronary World Model for Autonomous Guidewire Navigation">[Paper]</a></p>
+        </li>
+        <li class="publication-item">
+        <h4><a href="https://papers.miccai.org/miccai-2026/1127-Paper2982.html" target="_blank" rel="noopener noreferrer">VDSB-GWSyn: Diffusion Schrödinger Bridge for Controllable and Anatomically Feasible Guidewire Synthesis in Coronary Angiography</a></h4>
+        <p class="authors">Haoyuan Tang, Zhuo Zhang, Jialin Li, <strong>Shuai Xiao</strong>*, Jiachen Yang.</p>
+        <p class="venue"><em>Medical Image Computing and Computer Assisted Intervention (MICCAI)</em>, 2026.</p>
+        <p class="paper-links"><a href="https://papers.miccai.org/miccai-2026/1127-Paper2982.html" target="_blank" rel="noopener noreferrer" aria-label="Read paper: VDSB-GWSyn: Diffusion Schrödinger Bridge for Controllable and Anatomically Feasible Guidewire Synthesis in Coronary Angiography">[Paper]</a></p>
+        </li>
+        <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/TIP.2026.3736325" target="_blank" rel="noopener noreferrer">Unsupervised Component Decoupling for Fine-Grained Information Quality Evaluation</a></h4>
         <p class="authors">Jiasai Wu, <strong>Shuai Xiao</strong>, Zhuo Zhang, Jiabao Wen, Baihua Li, Qinggang Meng, Wen Lu, Jiachen Yang, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Image Processing, Early Access</em>.</p>
@@ -112,7 +124,7 @@ sections:
         </li>
         </ol>
         <h3 class="publication-year">2025</h3>
-        <ol class="publication-list" start="9">
+        <ol class="publication-list" start="11">
         <li class="publication-item">
         <h4><a href="https://proceedings.iclr.cc/paper_files/paper/2025/hash/0f8426558905746fc38da5e335700aec-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Inner Information Analysis Algorithm for Deep Neural Network based on Community</a></h4>
         <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Meng Xi, Jiabao Wen, Jiachen Yang.</p>
@@ -145,7 +157,7 @@ sections:
         </li>
         </ol>
         <h3 class="publication-year">2024</h3>
-        <ol class="publication-list" start="14">
+        <ol class="publication-list" start="16">
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1609/aaai.v38i12.29234" target="_blank" rel="noopener noreferrer">Generative Model Perception Rectification Algorithm for Trade-Off between Diversity and Quality</a></h4>
         <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiachen Yang, Jiabao Wen.</p>
@@ -196,7 +208,7 @@ sections:
         </li>
         </ol>
         <h3 class="publication-year">2023</h3>
-        <ol class="publication-list" start="22">
+        <ol class="publication-list" start="24">
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/JAS.2023.123117" target="_blank" rel="noopener noreferrer">Multi-AUV Inspection for Process Monitoring of Underwater Oil Transportation</a></h4>
         <p class="authors">Jingyi He, Jiabao Wen, <strong>Shuai Xiao</strong>, Jiachen Yang.</p>
@@ -211,7 +223,7 @@ sections:
         </li>
         </ol>
         <h3 class="publication-year">2022</h3>
-        <ol class="publication-list" start="24">
+        <ol class="publication-list" start="26">
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/tcsvt.2021.3133859" target="_blank" rel="noopener noreferrer">MSTA-Net: Forgery Detection by Generating Manipulation Trace Based on Multi-Scale Self-Texture Attention</a></h4>
         <p class="authors">Jiachen Yang, <strong>Shuai Xiao</strong>*, Aiyun Li, Wen Lu, Xinbo Gao, Yang Li.</p>
@@ -226,7 +238,7 @@ sections:
         </li>
         </ol>
         <h3 class="publication-year">2021</h3>
-        <ol class="publication-list" start="26">
+        <ol class="publication-list" start="28">
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/tifs.2021.3102487" target="_blank" rel="noopener noreferrer">MTD-Net: Learning to Detect Deepfakes Images by Multi-Scale Texture Difference</a></h4>
         <p class="authors">Jiachen Yang, Aiyun Li, <strong>Shuai Xiao</strong>*, Wen Lu, Xinbo Gao.</p>
