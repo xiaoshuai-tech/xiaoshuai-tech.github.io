@@ -60,12 +60,12 @@ sections:
       text: |-
         <h2 id="publications-title">Publications</h2>
         <p class="publication-intro">Selected publications in first-quartile journals or A-tier conferences since 2021, ordered by year and then by venue prominence. <a href="https://scholar.google.com/citations?user=A52OoroAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>.</p>
-        <p class="publication-note">First quartile refers to JCR Q1 or CAS Zone 1 as identified in the source materials. Publication years follow journal volumes where available; conference papers use the conference year. <strong>Shuai Xiao</strong>* denotes a verified corresponding author; an unmarked name does not imply otherwise. Click a title or [Paper] to open the article.</p>
+        <p class="publication-note">First quartile refers to JCR Q1 or CAS Zone 1; A-tier conferences follow the 2026 CCF seventh edition. Publication years follow journal volumes where available; conference papers use the conference year. <strong>Shuai Xiao</strong>* denotes a corresponding-author attribution supported by the paper or university profile; an unmarked name makes no claim about that role. Click a title or [Paper] to open the article.</p>
         <h3 class="publication-year" id="publications-2026">2026</h3>
         <ol class="publication-list" start="1">
         <li class="publication-item" data-year="2026">
         <h4><a href="https://icml.cc/virtual/2026/poster/62334" target="_blank" rel="noopener noreferrer">Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport</a></h4>
-        <p class="authors">Jialin Li, Zhuo Zhang, Yue Cao, Guipeng Lan, Jiabao Wen, <strong>Shuai Xiao</strong>*, Jiachen Yang.</p>
+        <p class="authors">Jialin Li, Zhuo Zhang, Yue Cao, Guipeng Lan, Jiabao Wen, <strong>Shuai Xiao</strong>, Jiachen Yang.</p>
         <p class="venue"><em>International Conference on Machine Learning (ICML)</em>, ICML 2026.</p>
         <p class="paper-links"><a href="https://icml.cc/virtual/2026/poster/62334" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport">[Paper]</a></p>
         </li>
@@ -89,7 +89,7 @@ sections:
         </li>
         <li class="publication-item" data-year="2026">
         <h4><a href="https://doi.org/10.1109/tnnls.2026.3678220" target="_blank" rel="noopener noreferrer">A Deep Neural Network Optimization Framework Based on Optimal Transport Bridge Feature Selection and Sparse Representation</a></h4>
-        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiabao Wen, Jiachen Yang, Wen Lu, Baihua Li, Qinggang Meng, Xinbo Gao.</p>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiabao Wen, Jiachen Yang, Wen Lu, Baihua Li, Qinggang Meng, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Neural Networks and Learning Systems</em>, Early Access, pp. 1–14, 2026.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tnnls.2026.3678220" target="_blank" rel="noopener noreferrer" aria-label="Read paper: A Deep Neural Network Optimization Framework Based on Optimal Transport Bridge Feature Selection and Sparse Representation">[Paper]</a> <span class="doi">DOI: 10.1109/tnnls.2026.3678220</span></p>
         </li>
@@ -110,7 +110,7 @@ sections:
         </li>
         <li class="publication-item" data-year="2025">
         <h4><a href="https://doi.org/10.1109/tcyb.2025.3584808" target="_blank" rel="noopener noreferrer">Active Learning for Object Detection With Vectorized Dual Pseudo Loss and Multiple Instance Offset Constraint</a></h4>
-        <p class="authors">Jiachen Yang, Jiasai Wu, <strong>Shuai Xiao</strong>*, Jiabao Wen, Qinggang Meng, Wen Lu, Xinbo Gao.</p>
+        <p class="authors">Jiachen Yang, Jiasai Wu, <strong>Shuai Xiao</strong>, Jiabao Wen, Qinggang Meng, Wen Lu, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Cybernetics</em>, 55(9): 4427–4440, 2025.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tcyb.2025.3584808" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Active Learning for Object Detection With Vectorized Dual Pseudo Loss and Multiple Instance Offset Constraint">[Paper]</a> <span class="doi">DOI: 10.1109/tcyb.2025.3584808</span></p>
         </li>
@@ -134,7 +134,7 @@ sections:
         </li>
         <li class="publication-item" data-year="2025">
         <h4><a href="https://doi.org/10.1016/j.knosys.2025.113922" target="_blank" rel="noopener noreferrer">Diffusion model in modern detection: Advancing Deepfake techniques</a></h4>
-        <p class="authors">Fazeela Siddiqui, Jiachen Yang, <strong>Shuai Xiao</strong>*, Muhammad Fahad.</p>
+        <p class="authors">Fazeela Siddiqui, Jiachen Yang, <strong>Shuai Xiao</strong>, Muhammad Fahad.</p>
         <p class="venue"><em>Knowledge-Based Systems</em>, 325: 113922, 2025.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.knosys.2025.113922" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
         </li>
@@ -167,13 +167,13 @@ sections:
         </li>
         <li class="publication-item" data-year="2024">
         <h4><a href="https://doi.org/10.1109/tmm.2023.3313256" target="_blank" rel="noopener noreferrer">High Fidelity Face-Swapping With Style ConvTransformer and Latent Space Selection</a></h4>
-        <p class="authors">Jiachen Yang, Chen Cheng, <strong>Shuai Xiao</strong>*, Guipeng Lan, Jiabao Wen.</p>
+        <p class="authors">Jiachen Yang, Chen Cheng, <strong>Shuai Xiao</strong>, Guipeng Lan, Jiabao Wen.</p>
         <p class="venue"><em>IEEE Transactions on Multimedia</em>, 26: 3604–3615, 2024.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tmm.2023.3313256" target="_blank" rel="noopener noreferrer" aria-label="Read paper: High Fidelity Face-Swapping With Style ConvTransformer and Latent Space Selection">[Paper]</a> <span class="doi">DOI: 10.1109/tmm.2023.3313256</span></p>
         </li>
         <li class="publication-item" data-year="2024">
         <h4><a href="https://doi.org/10.1109/tmm.2023.3313507" target="_blank" rel="noopener noreferrer">Image Aesthetics Assessment Based on Hypernetwork of Emotion Fusion</a></h4>
-        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiachen Yang, Yanshuang Zhou, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiachen Yang, Yanshuang Zhou, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Multimedia</em>, 26: 3640–3650, 2024.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tmm.2023.3313507" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Image Aesthetics Assessment Based on Hypernetwork of Emotion Fusion">[Paper]</a> <span class="doi">DOI: 10.1109/tmm.2023.3313507</span></p>
         </li>
@@ -330,3 +330,4 @@ sections:
       background:
         color: "#f8fafc"
 ---
+
