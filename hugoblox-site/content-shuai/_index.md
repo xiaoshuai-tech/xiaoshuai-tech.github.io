@@ -59,8 +59,8 @@ sections:
     content:
       text: |-
         <h2 id="publications-title">Publications</h2>
-        <p class="publication-intro">Selected publications in CAS Zone 1 journals or A-tier conferences, listed from recent to earlier work. <a href="https://scholar.google.com/citations?user=A52OoroAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>.</p>
-        <p class="publication-note">Journal selection uses the last official CAS major-category list; conference tiers follow the CCF seventh edition. Click a title or [Paper] to open the article.</p>
+        <p class="publication-intro">Selected publications, listed from recent to earlier work. <a href="https://scholar.google.com/citations?user=A52OoroAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>.</p>
+        <p class="publication-note">The list primarily features CAS Zone 1 journals and A-tier conferences, plus two additional papers from the project application. Click a title or [Paper] to open the article.</p>
         <ol class="publication-list">
         <li class="publication-item">
         <h4><a href="https://icml.cc/virtual/2026/poster/62334" target="_blank" rel="noopener noreferrer">Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport</a></h4>
@@ -76,13 +76,13 @@ sections:
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1609/aaai.v40i4.37253" target="_blank" rel="noopener noreferrer">Automatic Translational Correction of Multi-View Coronary Angiography Based on Auto-Annotation Data Generation</a></h4>
-        <p class="authors">Yue Cao, Zhuo Zhang, <strong>Shuai Xiao</strong>, Jialin Li, Guipeng Lan, Jiabao Wen, Jiachen Yang.</p>
+        <p class="authors">Yue Cao, Zhuo Zhang, <strong>Shuai Xiao</strong>*, Jialin Li, Guipeng Lan, Jiabao Wen, Jiachen Yang.</p>
         <p class="venue"><em>Proceedings of the AAAI Conference on Artificial Intelligence, 40(4): 2652–2660</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1609/aaai.v40i4.37253" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Automatic Translational Correction of Multi-View Coronary Angiography Based on Auto-Annotation Data Generation">[Paper]</a></p>
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/TIP.2026.3736325" target="_blank" rel="noopener noreferrer">Unsupervised Component Decoupling for Fine-Grained Information Quality Evaluation</a></h4>
-        <p class="authors">Jiasai Wu, <strong>Shuai Xiao</strong>, Zhuo Zhang, Jiabao Wen, Baihua Li, Qinggang Meng, Wen Lu, Jiachen Yang, Xinbo Gao.</p>
+        <p class="authors">Jiasai Wu, <strong>Shuai Xiao</strong>*, Zhuo Zhang, Jiabao Wen, Baihua Li, Qinggang Meng, Wen Lu, Jiachen Yang, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Image Processing, Early Access</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/TIP.2026.3736325" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Unsupervised Component Decoupling for Fine-Grained Information Quality Evaluation">[Paper]</a></p>
         </li>
@@ -124,19 +124,19 @@ sections:
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1016/j.knosys.2025.113922" target="_blank" rel="noopener noreferrer">Diffusion model in modern detection: Advancing Deepfake techniques</a></h4>
-        <p class="authors">Fazeela Siddiqui, Jiachen Yang, <strong>Shuai Xiao</strong>, Muhammad Fahad.</p>
+        <p class="authors">Fazeela Siddiqui, Jiachen Yang, <strong>Shuai Xiao</strong>*, Muhammad Fahad.</p>
         <p class="venue"><em>Knowledge-Based Systems</em>, 325: 113922.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.knosys.2025.113922" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1016/j.eswa.2024.126150" target="_blank" rel="noopener noreferrer">Enhanced Deepfake Detection with DenseNet and Cross-ViT</a></h4>
-        <p class="authors">Fazeela Siddiqui, Jiachen Yang, <strong>Shuai Xiao</strong>, Muhammad Fahad.</p>
+        <p class="authors">Fazeela Siddiqui, Jiachen Yang, <strong>Shuai Xiao</strong>*, Muhammad Fahad.</p>
         <p class="venue"><em>Expert Systems with Applications, 267: 126150</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.eswa.2024.126150" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Enhanced Deepfake Detection with DenseNet and Cross-ViT">[Paper]</a></p>
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1016/j.eswa.2025.127207" target="_blank" rel="noopener noreferrer">DD-MID: An Innovative Approach to Assess Model Information Discrepancy Based on Deep Dream</a></h4>
-        <p class="authors">Zhuo Zhang, Jialin Li, <strong>Shuai Xiao</strong>, Haoyu Li, Jiabao Wen, Wen Lu, Jiachen Yang, Xinbo Gao.</p>
+        <p class="authors">Zhuo Zhang, Jialin Li, <strong>Shuai Xiao</strong>*, Haoyu Li, Jiabao Wen, Wen Lu, Jiachen Yang, Xinbo Gao.</p>
         <p class="venue"><em>Expert Systems with Applications, 277: 127207</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.eswa.2025.127207" target="_blank" rel="noopener noreferrer" aria-label="Read paper: DD-MID: An Innovative Approach to Assess Model Information Discrepancy Based on Deep Dream">[Paper]</a></p>
         </li>
@@ -148,7 +148,7 @@ sections:
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/tmm.2023.3279993" target="_blank" rel="noopener noreferrer">MCS-GAN: A Different Understanding for Generalization of Deep Forgery Detection</a></h4>
-        <p class="authors"><strong>Shuai Xiao</strong>, Guipeng Lan, Jiachen Yang, Wen Lu, Qinggang Meng, Xinbo Gao.</p>
+        <p class="authors"><strong>Shuai Xiao</strong>*, Guipeng Lan, Jiachen Yang, Wen Lu, Qinggang Meng, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Multimedia</em>, 26: 1333–1345.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tmm.2023.3279993" target="_blank" rel="noopener noreferrer" aria-label="Read paper: MCS-GAN: A Different Understanding for Generalization of Deep Forgery Detection">[Paper]</a></p>
         </li>
@@ -166,19 +166,19 @@ sections:
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/TMM.2024.3371192" target="_blank" rel="noopener noreferrer">Say No to Redundant Information: Unsupervised Redundant Feature Elimination for Active Learning</a></h4>
-        <p class="authors">Jiachen Yang, Shukun Ma, Zhuo Zhang, Yang Li, <strong>Shuai Xiao</strong>, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
+        <p class="authors">Jiachen Yang, Shukun Ma, Zhuo Zhang, Yang Li, <strong>Shuai Xiao</strong>*, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Multimedia, 26: 7721–7733</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/TMM.2024.3371192" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Say No to Redundant Information: Unsupervised Redundant Feature Elimination for Active Learning">[Paper]</a></p>
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1016/j.eswa.2024.123582" target="_blank" rel="noopener noreferrer">Active Learning Inspired Method in Generative Models</a></h4>
-        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiachen Yang, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiachen Yang, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
         <p class="venue"><em>Expert Systems with Applications, 249: 123582</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.eswa.2024.123582" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Active Learning Inspired Method in Generative Models">[Paper]</a></p>
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1016/j.eswa.2024.124822" target="_blank" rel="noopener noreferrer">Face Swapping with Adaptive Exploration-Fusion Mechanism and Dual En-Decoding Tactic</a></h4>
-        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiachen Yang, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiachen Yang, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
         <p class="venue"><em>Expert Systems with Applications, 255: 124822</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.eswa.2024.124822" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Face Swapping with Adaptive Exploration-Fusion Mechanism and Dual En-Decoding Tactic">[Paper]</a></p>
         </li>
@@ -195,10 +195,22 @@ sections:
         <p class="paper-links"><a href="https://doi.org/10.1109/JAS.2023.123117" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Multi-AUV Inspection for Process Monitoring of Underwater Oil Transportation">[Paper]</a></p>
         </li>
         <li class="publication-item">
+        <h4><a href="https://doi.org/10.1016/j.ins.2023.03.006" target="_blank" rel="noopener noreferrer">Manipulation Detection of Key Populations under Information Measurement</a></h4>
+        <p class="authors"><strong>Shuai Xiao</strong>, Zhuo Zhang, Jiachen Yang, Jiabao Wen, Yang Li.</p>
+        <p class="venue"><em>Information Sciences</em>, 634: 1–13.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1016/j.ins.2023.03.006" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Manipulation Detection of Key Populations under Information Measurement">[Paper]</a></p>
+        </li>
+        <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/tcsvt.2021.3133859" target="_blank" rel="noopener noreferrer">MSTA-Net: Forgery Detection by Generating Manipulation Trace Based on Multi-Scale Self-Texture Attention</a></h4>
         <p class="authors">Jiachen Yang, <strong>Shuai Xiao</strong>*, Aiyun Li, Wen Lu, Xinbo Gao, Yang Li.</p>
         <p class="venue"><em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 32(7): 4854–4866.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tcsvt.2021.3133859" target="_blank" rel="noopener noreferrer" aria-label="Read paper: MSTA-Net: Forgery Detection by Generating Manipulation Trace Based on Multi-Scale Self-Texture Attention">[Paper]</a></p>
+        </li>
+        <li class="publication-item">
+        <h4><a href="https://doi.org/10.1145/3552469.3555711" target="_blank" rel="noopener noreferrer">No-Reference Quality Assessment of Stereoscopic Video Based on Deep Frequency Perception</a></h4>
+        <p class="authors"><strong>Shuai Xiao</strong>, Jiabao Wen, Jiachen Yang, Yanshuang Zhou.</p>
+        <p class="venue"><em>Proceedings of the 2nd Workshop on Quality of Experience in Visual Multimedia Applications (QoEVMA at ACM Multimedia)</em>, pp. 39–47.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1145/3552469.3555711" target="_blank" rel="noopener noreferrer" aria-label="Read paper: No-Reference Quality Assessment of Stereoscopic Video Based on Deep Frequency Perception">[Paper]</a></p>
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/tifs.2021.3102487" target="_blank" rel="noopener noreferrer">MTD-Net: Learning to Detect Deepfakes Images by Multi-Scale Texture Difference</a></h4>
@@ -266,4 +278,3 @@ sections:
       background:
         color: "#f8fafc"
 ---
-
