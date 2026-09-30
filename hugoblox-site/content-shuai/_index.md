@@ -60,7 +60,7 @@ sections:
       text: |-
         <h2 id="publications-title">Publications</h2>
         <p class="publication-intro">Selected publications in CAS Zone 1 journals or A-tier conferences, listed from recent to earlier work. <a href="https://scholar.google.com/citations?user=A52OoroAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>.</p>
-        <p class="publication-note">Journal selection uses the last official CAS major-category list; conference tiers follow the CCF seventh edition. Click a title or [Paper] to open the article. An asterisk (*) marks the last two listed authors on every paper by a provisional convention; it does not verify the actual corresponding authors.</p>
+        <p class="publication-note">Journal selection uses the last official CAS major-category list; conference tiers follow the CCF seventh edition. Click a title or [Paper] to open the article.</p>
         <ol class="publication-list">
         <li class="publication-item">
         <h4><a href="https://icml.cc/virtual/2026/poster/62334" target="_blank" rel="noopener noreferrer">Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport</a></h4>
