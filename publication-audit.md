@@ -1,6 +1,10 @@
 # Publication audit — Shuai Xiao homepage
 
-## Current 26-paper revision — 30 September 2026
+## Current display revision — 30 September 2026
+
+The 26 entries are now grouped under visible year headings (2026–2021). The former selection-explanation paragraph has been removed from the published Publications section. At the owner's direction, Xiao's asterisk was removed from the 2026 TIP *Unsupervised Component Decoupling* paper and the 2024 TMM *Say No to Redundant Information* paper, and added to the 2024 EAAI *Curvature Index* paper. This leaves **18** Xiao asterisks. These three role changes follow the owner's instruction; the original corresponding-author designations have not been freshly checked against the papers.
+
+## Previous 26-paper revision — historical record
 
 The owner explicitly requested that the two remaining papers from the 15-paper application list be displayed. The site therefore has **26** entries, not 25: the previous 24 plus [Manipulation detection of key populations under information measurement](https://doi.org/10.1016/j.ins.2023.03.006) (*Information Sciences*, 634: 1–13, 2023) and [No-Reference Quality Assessment of Stereoscopic Video Based on Deep Frequency Perception](https://doi.org/10.1145/3552469.3555711) (QoEVMA workshop, pp. 39–47, 2022). All 15 application-listed papers are now on the page. The former is not CAS Zone 1 under the prior 2025 major-category screening; the latter is [officially a workshop paper](https://www.sigmm.org/opentoc/QoEVMA2022-TOC), not an ACM Multimedia main-conference A paper. The introduction was adjusted so it no longer claims every entry meets the Zone 1/A threshold.
 
