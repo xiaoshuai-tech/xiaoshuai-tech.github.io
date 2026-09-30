@@ -59,61 +59,103 @@ sections:
     content:
       text: |-
         <h2 id="publications-title">Publications</h2>
-        <p class="publication-intro">Selected first- or corresponding-author publications, ordered by year and then by venue prominence. <a href="https://scholar.google.com/citations?user=A52OoroAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>.</p>
-        <p class="publication-note">Publication years follow journal volumes where available; conference papers use the conference year. Click a title or [Paper] to open the article.</p>
+        <p class="publication-intro">Selected publications in first-quartile journals or A-tier conferences since 2021, ordered by year and then by venue prominence. <a href="https://scholar.google.com/citations?user=A52OoroAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>.</p>
+        <p class="publication-note">First quartile refers to JCR Q1 or CAS Zone 1 as identified in the source materials. Publication years follow journal volumes where available; conference papers use the conference year. <strong>Shuai Xiao</strong>* denotes a verified corresponding author; an unmarked name does not imply otherwise. Click a title or [Paper] to open the article.</p>
         <h3 class="publication-year" id="publications-2026">2026</h3>
         <ol class="publication-list" start="1">
         <li class="publication-item" data-year="2026">
         <h4><a href="https://icml.cc/virtual/2026/poster/62334" target="_blank" rel="noopener noreferrer">Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport</a></h4>
-        <p class="authors">Jialin Li, Zhuo Zhang, Yue Cao, Guipeng Lan, Jiabao Wen, <strong>Shuai Xiao</strong>, Jiachen Yang.</p>
+        <p class="authors">Jialin Li, Zhuo Zhang, Yue Cao, Guipeng Lan, Jiabao Wen, <strong>Shuai Xiao</strong>*, Jiachen Yang.</p>
         <p class="venue"><em>International Conference on Machine Learning (ICML)</em>, ICML 2026.</p>
         <p class="paper-links"><a href="https://icml.cc/virtual/2026/poster/62334" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport">[Paper]</a></p>
         </li>
         <li class="publication-item" data-year="2026">
         <h4><a href="https://icml.cc/virtual/2026/poster/62160" target="_blank" rel="noopener noreferrer">scChord: A Probabilistic Manifold Rectification Framework for RNA-to-Protein Translation</a></h4>
-        <p class="authors">Jiawei Zhang, Kangjun Jin, <strong>Shuai Xiao</strong>, Jiachen Yang.</p>
+        <p class="authors">Jiawei Zhang, Kangjun Jin, <strong>Shuai Xiao</strong>*, Jiachen Yang.</p>
         <p class="venue"><em>International Conference on Machine Learning (ICML)</em>, ICML 2026.</p>
         <p class="paper-links"><a href="https://icml.cc/virtual/2026/poster/62160" target="_blank" rel="noopener noreferrer" aria-label="Read paper: scChord: A Probabilistic Manifold Rectification Framework for RNA-to-Protein Translation">[Paper]</a></p>
         </li>
         <li class="publication-item" data-year="2026">
+        <h4><a href="https://doi.org/10.1609/aaai.v40i4.37253" target="_blank" rel="noopener noreferrer">Automatic Translational Correction of Multi-View Coronary Angiography Based on Auto-Annotation Data Generation</a></h4>
+        <p class="authors">Yue Cao, Zhuo Zhang, <strong>Shuai Xiao</strong>, Jialin Li, Guipeng Lan, Jiabao Wen, Jiachen Yang.</p>
+        <p class="venue"><em>Proceedings of the AAAI Conference on Artificial Intelligence, 40(4): 2652–2660</em>, 2026.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1609/aaai.v40i4.37253" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Automatic Translational Correction of Multi-View Coronary Angiography Based on Auto-Annotation Data Generation">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2026">
+        <h4><a href="https://doi.org/10.1109/TIP.2026.3736325" target="_blank" rel="noopener noreferrer">Unsupervised Component Decoupling for Fine-Grained Information Quality Evaluation</a></h4>
+        <p class="authors">Jiasai Wu, <strong>Shuai Xiao</strong>, Zhuo Zhang, Jiabao Wen, Baihua Li, Qinggang Meng, Wen Lu, Jiachen Yang, Xinbo Gao.</p>
+        <p class="venue"><em>IEEE Transactions on Image Processing, Early Access</em>, 2026.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/TIP.2026.3736325" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Unsupervised Component Decoupling for Fine-Grained Information Quality Evaluation">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2026">
         <h4><a href="https://doi.org/10.1109/tnnls.2026.3678220" target="_blank" rel="noopener noreferrer">A Deep Neural Network Optimization Framework Based on Optimal Transport Bridge Feature Selection and Sparse Representation</a></h4>
-        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiabao Wen, Jiachen Yang, Wen Lu, Baihua Li, Qinggang Meng, Xinbo Gao.</p>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiabao Wen, Jiachen Yang, Wen Lu, Baihua Li, Qinggang Meng, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Neural Networks and Learning Systems</em>, Early Access, pp. 1–14, 2026.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tnnls.2026.3678220" target="_blank" rel="noopener noreferrer" aria-label="Read paper: A Deep Neural Network Optimization Framework Based on Optimal Transport Bridge Feature Selection and Sparse Representation">[Paper]</a> <span class="doi">DOI: 10.1109/tnnls.2026.3678220</span></p>
         </li>
+        <li class="publication-item" data-year="2026">
+        <h4><a href="https://doi.org/10.1109/JBHI.2025.3588196" target="_blank" rel="noopener noreferrer">Mitigating Data Bias in Healthcare AI With Self-Supervised Standardization</a></h4>
+        <p class="authors">Guipeng Lan, Yong Zhu, <strong>Shuai Xiao</strong>, Muddesar Iqbal, Jiachen Yang.</p>
+        <p class="venue"><em>IEEE Journal of Biomedical and Health Informatics, 30(9): 8004–8013</em>, 2026.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/JBHI.2025.3588196" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Mitigating Data Bias in Healthcare AI With Self-Supervised Standardization">[Paper]</a></p>
+        </li>
         </ol>
         <h3 class="publication-year" id="publications-2025">2025</h3>
-        <ol class="publication-list" start="4">
+        <ol class="publication-list" start="7">
         <li class="publication-item" data-year="2025">
         <h4><a href="https://proceedings.iclr.cc/paper_files/paper/2025/hash/0f8426558905746fc38da5e335700aec-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Inner Information Analysis Algorithm for Deep Neural Network based on Community</a></h4>
-        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Meng Xi, Jiabao Wen, Jiachen Yang.</p>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Meng Xi, Jiabao Wen, Jiachen Yang.</p>
         <p class="venue"><em>International Conference on Learning Representations (ICLR)</em>, ICLR 2025.</p>
         <p class="paper-links"><a href="https://proceedings.iclr.cc/paper_files/paper/2025/hash/0f8426558905746fc38da5e335700aec-Abstract-Conference.html" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Inner Information Analysis Algorithm for Deep Neural Network based on Community">[Paper]</a></p>
         </li>
         <li class="publication-item" data-year="2025">
         <h4><a href="https://doi.org/10.1109/tcyb.2025.3584808" target="_blank" rel="noopener noreferrer">Active Learning for Object Detection With Vectorized Dual Pseudo Loss and Multiple Instance Offset Constraint</a></h4>
-        <p class="authors">Jiachen Yang, Jiasai Wu, <strong>Shuai Xiao</strong>, Jiabao Wen, Qinggang Meng, Wen Lu, Xinbo Gao.</p>
+        <p class="authors">Jiachen Yang, Jiasai Wu, <strong>Shuai Xiao</strong>*, Jiabao Wen, Qinggang Meng, Wen Lu, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Cybernetics</em>, 55(9): 4427–4440, 2025.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tcyb.2025.3584808" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Active Learning for Object Detection With Vectorized Dual Pseudo Loss and Multiple Instance Offset Constraint">[Paper]</a> <span class="doi">DOI: 10.1109/tcyb.2025.3584808</span></p>
         </li>
         <li class="publication-item" data-year="2025">
+        <h4><a href="https://doi.org/10.1109/TITS.2024.3524730" target="_blank" rel="noopener noreferrer">An Expert Experience-Enhanced Security Control Approach for AUVs of the Underwater Transportation Cyber-Physical Systems</a></h4>
+        <p class="authors">Meng Xi, Jiabao Wen, Jingyi He, <strong>Shuai Xiao</strong>, Jiachen Yang.</p>
+        <p class="venue"><em>IEEE Transactions on Intelligent Transportation Systems, 26(9): 14086–14098</em>, 2025.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/TITS.2024.3524730" target="_blank" rel="noopener noreferrer" aria-label="Read paper: An Expert Experience-Enhanced Security Control Approach for AUVs of the Underwater Transportation Cyber-Physical Systems">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2025">
+        <h4><a href="https://doi.org/10.1109/TBC.2025.3573144" target="_blank" rel="noopener noreferrer">MAIP: A Multi-Attribute Informativeness Proxy for Image Semantic Broadcasting Communication</a></h4>
+        <p class="authors">Zhuo Zhang, <strong>Shuai Xiao</strong>, Guipeng Lan, Meng Xi, Jiabao Wen, Jiachen Yang.</p>
+        <p class="venue"><em>IEEE Transactions on Broadcasting, 71(3): 903–913</em>, 2025.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/TBC.2025.3573144" target="_blank" rel="noopener noreferrer" aria-label="Read paper: MAIP: A Multi-Attribute Informativeness Proxy for Image Semantic Broadcasting Communication">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2025">
+        <h4><a href="https://doi.org/10.1109/JBHI.2023.3327485" target="_blank" rel="noopener noreferrer">Generative AI-Based Data Completeness Augmentation Algorithm for Data-Driven Smart Healthcare</a></h4>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiachen Yang, Jiabao Wen, Meng Xi.</p>
+        <p class="venue"><em>IEEE Journal of Biomedical and Health Informatics, 29(6): 4001–4008</em>, 2025.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/JBHI.2023.3327485" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Generative AI-Based Data Completeness Augmentation Algorithm for Data-Driven Smart Healthcare">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2025">
         <h4><a href="https://doi.org/10.1016/j.knosys.2025.113922" target="_blank" rel="noopener noreferrer">Diffusion model in modern detection: Advancing Deepfake techniques</a></h4>
-        <p class="authors">Fazeela Siddiqui, Jiachen Yang, <strong>Shuai Xiao</strong>, Muhammad Fahad.</p>
+        <p class="authors">Fazeela Siddiqui, Jiachen Yang, <strong>Shuai Xiao</strong>*, Muhammad Fahad.</p>
         <p class="venue"><em>Knowledge-Based Systems</em>, 325: 113922, 2025.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.knosys.2025.113922" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
         </li>
         <li class="publication-item" data-year="2025">
-        <h4><a href="https://doi.org/10.3390/s25030710" target="_blank" rel="noopener noreferrer">CDKD-w+: A Keyframe Recognition Method for Coronary Digital Subtraction Angiography Video Sequence Based on w+ Space Encoding</a></h4>
-        <p class="authors">Yong Zhu, Haoyu Li, <strong>Shuai Xiao</strong>, Wei Yu, Hongyu Shang, Lin Wang, Yang Liu, Yin Wang, Jiachen Yang.</p>
-        <p class="venue"><em>Sensors</em>, 25(3): 710, 2025.</p>
-        <p class="paper-links"><a href="https://doi.org/10.3390/s25030710" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
+        <h4><a href="https://doi.org/10.1016/j.eswa.2024.126150" target="_blank" rel="noopener noreferrer">Enhanced Deepfake Detection with DenseNet and Cross-ViT</a></h4>
+        <p class="authors">Fazeela Siddiqui, Jiachen Yang, <strong>Shuai Xiao</strong>, Muhammad Fahad.</p>
+        <p class="venue"><em>Expert Systems with Applications, 267: 126150</em>, 2025.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1016/j.eswa.2024.126150" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Enhanced Deepfake Detection with DenseNet and Cross-ViT">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2025">
+        <h4><a href="https://doi.org/10.1016/j.eswa.2025.127207" target="_blank" rel="noopener noreferrer">DD-MID: An Innovative Approach to Assess Model Information Discrepancy Based on Deep Dream</a></h4>
+        <p class="authors">Zhuo Zhang, Jialin Li, <strong>Shuai Xiao</strong>, Haoyu Li, Jiabao Wen, Wen Lu, Jiachen Yang, Xinbo Gao.</p>
+        <p class="venue"><em>Expert Systems with Applications, 277: 127207</em>, 2025.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1016/j.eswa.2025.127207" target="_blank" rel="noopener noreferrer" aria-label="Read paper: DD-MID: An Innovative Approach to Assess Model Information Discrepancy Based on Deep Dream">[Paper]</a></p>
         </li>
         </ol>
         <h3 class="publication-year" id="publications-2024">2024</h3>
-        <ol class="publication-list" start="8">
+        <ol class="publication-list" start="15">
         <li class="publication-item" data-year="2024">
         <h4><a href="https://doi.org/10.1609/aaai.v38i12.29234" target="_blank" rel="noopener noreferrer">Generative Model Perception Rectification Algorithm for Trade-Off between Diversity and Quality</a></h4>
-        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiachen Yang, Jiabao Wen.</p>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiachen Yang, Jiabao Wen.</p>
         <p class="venue"><em>Proceedings of the AAAI Conference on Artificial Intelligence</em>, 38(12): 13328–13336, 2024.</p>
         <p class="paper-links"><a href="https://doi.org/10.1609/aaai.v38i12.29234" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Generative Model Perception Rectification Algorithm for Trade-Off between Diversity and Quality">[Paper]</a> <span class="doi">DOI: 10.1609/aaai.v38i12.29234</span></p>
         </li>
@@ -125,79 +167,85 @@ sections:
         </li>
         <li class="publication-item" data-year="2024">
         <h4><a href="https://doi.org/10.1109/tmm.2023.3313256" target="_blank" rel="noopener noreferrer">High Fidelity Face-Swapping With Style ConvTransformer and Latent Space Selection</a></h4>
-        <p class="authors">Jiachen Yang, Chen Cheng, <strong>Shuai Xiao</strong>, Guipeng Lan, Jiabao Wen.</p>
+        <p class="authors">Jiachen Yang, Chen Cheng, <strong>Shuai Xiao</strong>*, Guipeng Lan, Jiabao Wen.</p>
         <p class="venue"><em>IEEE Transactions on Multimedia</em>, 26: 3604–3615, 2024.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tmm.2023.3313256" target="_blank" rel="noopener noreferrer" aria-label="Read paper: High Fidelity Face-Swapping With Style ConvTransformer and Latent Space Selection">[Paper]</a> <span class="doi">DOI: 10.1109/tmm.2023.3313256</span></p>
         </li>
         <li class="publication-item" data-year="2024">
         <h4><a href="https://doi.org/10.1109/tmm.2023.3313507" target="_blank" rel="noopener noreferrer">Image Aesthetics Assessment Based on Hypernetwork of Emotion Fusion</a></h4>
-        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiachen Yang, Yanshuang Zhou, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiachen Yang, Yanshuang Zhou, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Multimedia</em>, 26: 3640–3650, 2024.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tmm.2023.3313507" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Image Aesthetics Assessment Based on Hypernetwork of Emotion Fusion">[Paper]</a> <span class="doi">DOI: 10.1109/tmm.2023.3313507</span></p>
         </li>
         <li class="publication-item" data-year="2024">
-        <h4><a href="https://doi.org/10.1109/TCSS.2022.3213832" target="_blank" rel="noopener noreferrer">Securing the Socio-Cyber World: Multiorder Attribute Node Association Classification for Manipulated Media</a></h4>
-        <p class="authors"><strong>Shuai Xiao</strong>, Guipeng Lan, Jiachen Yang, Yang Li, Jiabao Wen.</p>
-        <p class="venue"><em>IEEE Transactions on Computational Social Systems</em>, 11(4): 4809–4818, 2024.</p>
-        <p class="paper-links"><a href="https://doi.org/10.1109/TCSS.2022.3213832" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
+        <h4><a href="https://doi.org/10.1109/TMM.2024.3371192" target="_blank" rel="noopener noreferrer">Say No to Redundant Information: Unsupervised Redundant Feature Elimination for Active Learning</a></h4>
+        <p class="authors">Jiachen Yang, Shukun Ma, Zhuo Zhang, Yang Li, <strong>Shuai Xiao</strong>, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
+        <p class="venue"><em>IEEE Transactions on Multimedia, 26: 7721–7733</em>, 2024.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/TMM.2024.3371192" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Say No to Redundant Information: Unsupervised Redundant Feature Elimination for Active Learning">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2024">
+        <h4><a href="https://doi.org/10.1109/TITS.2024.3459895" target="_blank" rel="noopener noreferrer">MARL-Based AUV Formation for Underwater Intelligent Autonomous Transport Systems Supported by 6G Network</a></h4>
+        <p class="authors">Jingyi He, Meng Xi, Jiabao Wen, <strong>Shuai Xiao</strong>, Jiachen Yang.</p>
+        <p class="venue"><em>IEEE Transactions on Intelligent Transportation Systems, Early Access</em>, 2024.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/TITS.2024.3459895" target="_blank" rel="noopener noreferrer" aria-label="Read paper: MARL-Based AUV Formation for Underwater Intelligent Autonomous Transport Systems Supported by 6G Network">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2024">
+        <h4><a href="https://doi.org/10.1109/JIOT.2024.3350525" target="_blank" rel="noopener noreferrer">A Lightweight Reinforcement-Learning-Based Real-Time Path-Planning Method for Unmanned Aerial Vehicles</a></h4>
+        <p class="authors">Meng Xi, Huiao Dai, Jingyi He, Wenjie Li, Jiabao Wen, <strong>Shuai Xiao</strong>, Jiachen Yang.</p>
+        <p class="venue"><em>IEEE Internet of Things Journal, 11(12): 21061–21071</em>, 2024.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/JIOT.2024.3350525" target="_blank" rel="noopener noreferrer" aria-label="Read paper: A Lightweight Reinforcement-Learning-Based Real-Time Path-Planning Method for Unmanned Aerial Vehicles">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2024">
+        <h4><a href="https://doi.org/10.1109/JIOT.2024.3452200" target="_blank" rel="noopener noreferrer">Idea and Application to Explain Active Learning for Low-Carbon Sustainable AIoT</a></h4>
+        <p class="authors">Desheng Chen, <strong>Shuai Xiao</strong>, Meng Xi, Guipeng Lan, Zhuo Zhang.</p>
+        <p class="venue"><em>IEEE Internet of Things Journal, 11(24): 39084–39093</em>, 2024.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/JIOT.2024.3452200" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Idea and Application to Explain Active Learning for Low-Carbon Sustainable AIoT">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2024">
+        <h4><a href="https://doi.org/10.1016/j.eswa.2024.123582" target="_blank" rel="noopener noreferrer">Active Learning Inspired Method in Generative Models</a></h4>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiachen Yang, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
+        <p class="venue"><em>Expert Systems with Applications, 249: 123582</em>, 2024.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1016/j.eswa.2024.123582" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Active Learning Inspired Method in Generative Models">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2024">
+        <h4><a href="https://doi.org/10.1016/j.eswa.2024.124822" target="_blank" rel="noopener noreferrer">Face Swapping with Adaptive Exploration-Fusion Mechanism and Dual En-Decoding Tactic</a></h4>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiachen Yang, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
+        <p class="venue"><em>Expert Systems with Applications, 255: 124822</em>, 2024.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1016/j.eswa.2024.124822" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Face Swapping with Adaptive Exploration-Fusion Mechanism and Dual En-Decoding Tactic">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2024">
+        <h4><a href="https://doi.org/10.1145/3605893" target="_blank" rel="noopener noreferrer">Forgery Detection by Weighted Complementarity between Significant Invariance and Detail Enhancement</a></h4>
+        <p class="authors"><strong>Shuai Xiao</strong>, Zhuo Zhang, Jiachen Yang, Jiabao Wen, Yang Li.</p>
+        <p class="venue"><em>ACM Transactions on Multimedia Computing, Communications, and Applications, 20(11): 346:1–346:20</em>, 2024.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1145/3605893" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Forgery Detection by Weighted Complementarity between Significant Invariance and Detail Enhancement">[Paper]</a></p>
+        </li>
+        <li class="publication-item" data-year="2024">
+        <h4><a href="https://doi.org/10.1109/TBC.2024.3394289" target="_blank" rel="noopener noreferrer">Enhancing Transportation Management in Marine Internet of Vessels: A 5G Broadcasting-Centric Framework Leveraging Federated Learning</a></h4>
+        <p class="authors">Desheng Chen, Jiabao Wen, Huiao Dai, Meng Xi, <strong>Shuai Xiao</strong>, Jiachen Yang.</p>
+        <p class="venue"><em>IEEE Transactions on Broadcasting, 70(3): 1091–1103</em>, 2024.</p>
+        <p class="paper-links"><a href="https://doi.org/10.1109/TBC.2024.3394289" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Enhancing Transportation Management in Marine Internet of Vessels: A 5G Broadcasting-Centric Framework Leveraging Federated Learning">[Paper]</a></p>
         </li>
         <li class="publication-item" data-year="2024">
         <h4><a href="https://doi.org/10.1109/MIS.2022.3217391" target="_blank" rel="noopener noreferrer">Data-Driven Deepfake Forensics Model Based on Large-Scale Frequency and Noise Features</a></h4>
-        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>, Jiabao Wen, Desheng Chen, Yong Zhu.</p>
+        <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiabao Wen, Desheng Chen, Yong Zhu.</p>
         <p class="venue"><em>IEEE Intelligent Systems</em>, 39(1): 29–35, 2024.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/MIS.2022.3217391" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
         </li>
-        <li class="publication-item" data-year="2024">
-        <h4><a href="https://doi.org/10.1016/j.displa.2023.102635" target="_blank" rel="noopener noreferrer">Underwater image classification based on image enhancement and information quality evaluation</a></h4>
-        <p class="authors"><strong>Shuai Xiao</strong>, Xiaotong Shen, Zhuo Zhang, Jiabao Wen, Meng Xi, Jiachen Yang.</p>
-        <p class="venue"><em>Displays</em>, 82: 102635, 2024.</p>
-        <p class="paper-links"><a href="https://doi.org/10.1016/j.displa.2023.102635" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
         </ol>
         <h3 class="publication-year" id="publications-2023">2023</h3>
-        <ol class="publication-list" start="15">
+        <ol class="publication-list" start="28">
         <li class="publication-item" data-year="2023">
         <h4><a href="https://doi.org/10.1016/j.ins.2023.03.006" target="_blank" rel="noopener noreferrer">Manipulation detection of key populations under information measurement</a></h4>
         <p class="authors"><strong>Shuai Xiao</strong>, Zhuo Zhang, Jiachen Yang, Jiabao Wen, Yang Li.</p>
         <p class="venue"><em>Information Sciences</em>, 634: 1–13, 2023.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.ins.2023.03.006" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Manipulation detection of key populations under information measurement">[Paper]</a> <span class="doi">DOI: 10.1016/j.ins.2023.03.006</span></p>
         </li>
-        <li class="publication-item" data-year="2023">
-        <h4><a href="https://doi.org/10.1016/j.sigpro.2022.108782" target="_blank" rel="noopener noreferrer">No-reference quality index of tone-mapped images based on authenticity, preservation, and scene expressiveness</a></h4>
-        <p class="authors">Yang Zhao, <strong>Shuai Xiao</strong>, Jiachen Yang, Wen Lu, Xinbo Gao.</p>
-        <p class="venue"><em>Signal Processing</em>, 203: 108782, 2023.</p>
-        <p class="paper-links"><a href="https://doi.org/10.1016/j.sigpro.2022.108782" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
-        <li class="publication-item" data-year="2023">
-        <h4><a href="https://doi.org/10.1016/j.neucom.2023.01.067" target="_blank" rel="noopener noreferrer">Efficient data-driven behavior identification based on vision transformers for human activity understanding</a></h4>
-        <p class="authors">Jiachen Yang, Zhuo Zhang, <strong>Shuai Xiao</strong>, Shukun Ma, Yang Li, Wen Lu, Xinbo Gao.</p>
-        <p class="venue"><em>Neurocomputing</em>, 530: 104–115, 2023.</p>
-        <p class="paper-links"><a href="https://doi.org/10.1016/j.neucom.2023.01.067" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
-        <li class="publication-item" data-year="2023">
-        <h4><a href="https://doi.org/10.1117/1.JEI.32.5.052403" target="_blank" rel="noopener noreferrer">Data-driven few-shot crop pest detection based on object pyramid for smart agriculture</a></h4>
-        <p class="authors">Xinfeng Li, <strong>Shuai Xiao</strong>, Paul Kumar, Bunyamin Demir.</p>
-        <p class="venue"><em>Journal of Electronic Imaging</em>, 32(5): 052403, 2023.</p>
-        <p class="paper-links"><a href="https://doi.org/10.1117/1.JEI.32.5.052403" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
-        <li class="publication-item" data-year="2023">
-        <h4><a href="https://doi.org/10.32604/cmes.2023.026691" target="_blank" rel="noopener noreferrer">PoQ-Consensus Based Private Electricity Consumption Forecasting via Federated Learning</a></h4>
-        <p class="authors">Yiqun Zhu, Shuxian Sun, Chunyu Liu, Xinyi Tian, Jingyi He, <strong>Shuai Xiao</strong>.</p>
-        <p class="venue"><em>Computer Modeling in Engineering &amp; Sciences</em>, 136(3): 3285–3297, 2023.</p>
-        <p class="paper-links"><a href="https://doi.org/10.32604/cmes.2023.026691" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
-        <li class="publication-item" data-year="2023">
-        <h4><a href="https://doi.org/10.3390/s23177510" target="_blank" rel="noopener noreferrer">AUV Path Planning Considering Ocean Current Disturbance Based on Cloud Desktop Technology</a></h4>
-        <p class="authors">Siyuan Hu, <strong>Shuai Xiao</strong>, Jiachen Yang, Zuochen Zhang, Kunyu Zhang, Yong Zhu, Yubo Zhang.</p>
-        <p class="venue"><em>Sensors</em>, 23(17): 7510, 2023.</p>
-        <p class="paper-links"><a href="https://doi.org/10.3390/s23177510" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
         </ol>
         <h3 class="publication-year" id="publications-2022">2022</h3>
-        <ol class="publication-list" start="21">
+        <ol class="publication-list" start="29">
         <li class="publication-item" data-year="2022">
         <h4><a href="https://doi.org/10.1109/tcsvt.2021.3133859" target="_blank" rel="noopener noreferrer">MSTA-Net: Forgery Detection by Generating Manipulation Trace Based on Multi-Scale Self-Texture Attention</a></h4>
-        <p class="authors">Jiachen Yang, <strong>Shuai Xiao</strong>, Aiyun Li, Wen Lu, Xinbo Gao, Yang Li.</p>
+        <p class="authors">Jiachen Yang, <strong>Shuai Xiao</strong>*, Aiyun Li, Wen Lu, Xinbo Gao, Yang Li.</p>
         <p class="venue"><em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 32(7): 4854–4866, 2022.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tcsvt.2021.3133859" target="_blank" rel="noopener noreferrer" aria-label="Read paper: MSTA-Net: Forgery Detection by Generating Manipulation Trace Based on Multi-Scale Self-Texture Attention">[Paper]</a> <span class="doi">DOI: 10.1109/tcsvt.2021.3133859</span></p>
         </li>
@@ -207,59 +255,20 @@ sections:
         <p class="venue"><em>Digital Communications and Networks</em>, 8(6): 877–884, 2022.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.dcan.2022.07.010" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
         </li>
-        <li class="publication-item" data-year="2022">
-        <h4><a href="https://doi.org/10.1016/j.imavis.2022.104566" target="_blank" rel="noopener noreferrer">A controllable face forgery framework to enrich face-privacy-protection datasets</a></h4>
-        <p class="authors">Jiachen Yang, Yong Zhu, <strong>Shuai Xiao</strong>, Guipeng Lan, Yang Li.</p>
-        <p class="venue"><em>Image and Vision Computing</em>, 127: 104566, 2022.</p>
-        <p class="paper-links"><a href="https://doi.org/10.1016/j.imavis.2022.104566" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
-        <li class="publication-item" data-year="2022">
-        <h4><a href="https://doi.org/10.3390/s22239331" target="_blank" rel="noopener noreferrer">A Tiny Model for Fast and Precise Ship Detection via Feature Channel Pruning</a></h4>
-        <p class="authors">Yana Yang, <strong>Shuai Xiao</strong>, Jiachen Yang, Chen Cheng.</p>
-        <p class="venue"><em>Sensors</em>, 22(23): 9331, 2022.</p>
-        <p class="paper-links"><a href="https://doi.org/10.3390/s22239331" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
-        <li class="publication-item" data-year="2022">
-        <h4><a href="https://doi.org/10.3390/s22134697" target="_blank" rel="noopener noreferrer">Enriching Facial Anti-Spoofing Datasets via an Effective Face Swapping Framework</a></h4>
-        <p class="authors">Jiachen Yang, Guipeng Lan, <strong>Shuai Xiao</strong>, Yang Li, Jiabao Wen, Yong Zhu.</p>
-        <p class="venue"><em>Sensors</em>, 22(13): 4697, 2022.</p>
-        <p class="paper-links"><a href="https://doi.org/10.3390/s22134697" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
-        <li class="publication-item" data-year="2022">
-        <h4><a href="https://doi.org/10.3390/su141710938" target="_blank" rel="noopener noreferrer">Image Information Contribution Evaluation for Plant Diseases Classification via Inter-Class Similarity</a></h4>
-        <p class="authors">Jiachen Yang, Yue Yang, Yang Li, <strong>Shuai Xiao</strong>, Sezai Ercisli.</p>
-        <p class="venue"><em>Sustainability</em>, 14(17): 10938, 2022.</p>
-        <p class="paper-links"><a href="https://doi.org/10.3390/su141710938" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
-        <li class="publication-item" data-year="2022">
-        <h4><a href="https://doi.org/10.1145/3552469.3555711" target="_blank" rel="noopener noreferrer">No-Reference Quality Assessment of Stereoscopic Video Based on Deep Frequency Perception</a></h4>
-        <p class="authors"><strong>Shuai Xiao</strong>, Jiabao Wen, Jiachen Yang, Yanshuang Zhou.</p>
-        <p class="venue"><em>QoEVMA Workshop at ACM Multimedia</em>, pp. 39–47, 2022.</p>
-        <p class="paper-links"><a href="https://doi.org/10.1145/3552469.3555711" target="_blank" rel="noopener noreferrer" aria-label="Read paper: No-Reference Quality Assessment of Stereoscopic Video Based on Deep Frequency Perception">[Paper]</a> <span class="doi">DOI: 10.1145/3552469.3555711</span></p>
-        </li>
         </ol>
         <h3 class="publication-year" id="publications-2021">2021</h3>
-        <ol class="publication-list" start="28">
+        <ol class="publication-list" start="31">
         <li class="publication-item" data-year="2021">
         <h4><a href="https://doi.org/10.1109/tifs.2021.3102487" target="_blank" rel="noopener noreferrer">MTD-Net: Learning to Detect Deepfakes Images by Multi-Scale Texture Difference</a></h4>
-        <p class="authors">Jiachen Yang, Aiyun Li, <strong>Shuai Xiao</strong>, Wen Lu, Xinbo Gao.</p>
+        <p class="authors">Jiachen Yang, Aiyun Li, <strong>Shuai Xiao</strong>*, Wen Lu, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Information Forensics and Security</em>, 16: 4234–4245, 2021.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/tifs.2021.3102487" target="_blank" rel="noopener noreferrer" aria-label="Read paper: MTD-Net: Learning to Detect Deepfakes Images by Multi-Scale Texture Difference">[Paper]</a> <span class="doi">DOI: 10.1109/tifs.2021.3102487</span></p>
         </li>
         <li class="publication-item" data-year="2021">
         <h4><a href="https://doi.org/10.1016/j.future.2021.06.043" target="_blank" rel="noopener noreferrer">Detecting fake images by identifying potential texture difference</a></h4>
-        <p class="authors">Jiachen Yang, <strong>Shuai Xiao</strong>, Aiyun Li, Guipeng Lan, Huihui Wang.</p>
+        <p class="authors">Jiachen Yang, <strong>Shuai Xiao</strong>*, Aiyun Li, Guipeng Lan, Huihui Wang.</p>
         <p class="venue"><em>Future Generation Computer Systems</em>, 125: 127–135, 2021.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.future.2021.06.043" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
-        </li>
-        </ol>
-        <h3 class="publication-year" id="publications-2020">2020</h3>
-        <ol class="publication-list" start="30">
-        <li class="publication-item" data-year="2020">
-        <h4><a href="https://doi.org/10.1109/MWC.001.1900301" target="_blank" rel="noopener noreferrer">Cache-enabled Unmanned Aerial Vehicles for Cooperative Cognitive Radio Networks</a></h4>
-        <p class="authors">Jiachen Yang, <strong>Shuai Xiao</strong>, Bin Jiang, Houbing Song, Suleman Khan, Saif Ul Islam.</p>
-        <p class="venue"><em>IEEE Wireless Communications</em>, 27(2): 155–161, 2020.</p>
-        <p class="paper-links"><a href="https://doi.org/10.1109/MWC.001.1900301" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
         </li>
         </ol>
     design:
@@ -321,4 +330,3 @@ sections:
       background:
         color: "#f8fafc"
 ---
-
