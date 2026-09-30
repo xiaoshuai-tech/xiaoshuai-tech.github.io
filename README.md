@@ -8,7 +8,7 @@ English academic homepage for Shuai Xiao at Tianjin University.
 
 ## Sections
 
-Profile, Brief Bio, Education & Experience, Publications, Awards, and Academic Services. No News or Projects. The publication section currently contains 13 selected first- or corresponding-author papers from the supplied application, grouped by year (2021–2026) and then by venue prominence. Each title and [Paper] opens an article or official conference page.
+Profile, Brief Bio, Education & Experience, Publications, Awards, and Academic Services. No News or Projects. The publication section currently contains 32 selected papers from 2021 onward in JCR-Q1/CAS-Zone-1 journals or A-tier conferences. Xiao's position in the author list is not an inclusion criterion. Papers are grouped by year and then by venue prominence. Each title and [Paper] opens a DOI or official conference page; an asterisk after his name is used only where his corresponding-author role was confirmed.
 
 The site uses the actual [HugoBlox Academic CV starter](https://github.com/HugoBlox/hugo-theme-academic-cv), with its biography block, responsive navigation, gradient background, academic typography, and light/dark mode. The accepted content and section order were preserved during the template migration; no News, Projects, or sample CV were added.
 
@@ -53,7 +53,7 @@ Search is disabled, so a Pagefind index is not required. The current release was
 - Original content/section reference: https://ruizhao26.github.io/
 - Current theme: https://github.com/HugoBlox/hugo-theme-academic-cv
 
-Google Scholar is linked but was not used as the sole metadata source. The supplied application lists 15 papers; two Jiasai Wu first-author 2026 papers in TIP and TCSVT do not explicitly mark Xiao as corresponding author. They are withheld until that role is confirmed. The ACM Multimedia-associated 2022 quality-assessment paper is a QoEVMA workshop paper, not an ACM Multimedia main-conference paper. No unverified CAS/JCR ranking or corresponding-author symbols are shown.
+Google Scholar was used to find candidate papers, with publication metadata checked against DOI records, publisher/conference pages, and the supplied application. The 2026 TIP paper is included without a corresponding-author asterisk because that role is unconfirmed. The 2026 TCSVT paper was not included because the application and an institutional publication record conflict on whether Xiao is an author. The ACM Multimedia-associated 2022 quality-assessment paper is a QoEVMA workshop paper, not an ACM Multimedia main-conference paper, so it is excluded. Quartile classifications depend on the ranking year and system and should be rechecked for a formal AE application.
 
 Three student-competition prizes in the application have not been added to Xiao's personal Awards section pending clarification of his role. Professor Xiao should confirm the English translations of titles, awards, and service appointments before using the page for an AE application.
 
