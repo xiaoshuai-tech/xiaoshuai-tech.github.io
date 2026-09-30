@@ -1,5 +1,31 @@
 # Publication audit — Shuai Xiao homepage
 
+## Current site revision — 30 September 2026
+
+The homepage now shows **19** papers. The journal criterion is **CAS 2025 major-category Zone 1**; the conference criterion remains the CCF 2026 seventh-edition A list. This intentionally excludes JCR-Q1 journals that are CAS Zone 2 or lower. The [CAS institute says it stopped updating the journal partition list after 2025](https://cssar.cas.cn/library/dtxx/202604/t20260409_8183275.html); the independent 2026 “新锐分区” is not treated as an official CAS update. CAS classification data below is corroborated by public journal directories and should be checked against an institution's licensed CAS table before formal submission.
+
+### Excluded in this revision
+
+| Former # | Venue | 2025 CAS major category | Public record |
+|---:|---|---:|---|
+| 6, 11 | IEEE Journal of Biomedical and Health Informatics | 2 | [Record](https://www.iikx.com/sci/technology/18667.html) |
+| 9, 20 | IEEE Transactions on Intelligent Transportation Systems | 2 | [Record](https://www.iikx.com/sci/technology/13032.html) |
+| 10, 26 | IEEE Transactions on Broadcasting | 2 | [Record](https://www.xueshu.com.cn/sci/44655/12.html) |
+| 21, 22 | IEEE Internet of Things Journal | 2 | [Record](https://hy.iikx.com/sci/technology/19389.html) |
+| 25 | ACM Transactions on Multimedia Computing, Communications, and Applications | 3 | [Record](https://www.iikx.com/sci/technology/9703.html) |
+| 27 | IEEE Intelligent Systems | 4 | [Record](https://www.iikx.com/sci/technology/12966.html) |
+| 28 | Information Sciences | 2 | [Record](https://www.fabiao.com.cn/sci/00200255/) |
+| 30 | Digital Communications and Networks | 2 | [Record](https://journalcompass.com/journals/digital-communications-and-networks-24685925.html) |
+| 32 | Future Generation Computer Systems | 2 | [Record](https://www.iikx.com/sci/technology/12611.html) |
+
+The 14 retained journal papers are in TIP, TNNLS, TCyb, KBS, ESWA, TMM, TCSVT, and TIFS. Public 2025 CAS major-category records: [TIP](https://www.iikx.com/sci/technology/13024.html), [TNNLS](https://www.iikx.com/sci/technology/18373.html), [TCyb](https://www.iikx.com/sci/technology/18670.html), [KBS](https://www.ais.cn/journal/database/5488), [ESWA](https://m.booksci.cn/journal/50461.htm), [TMM](https://www.klxksci.com/sci/2447.html), [TCSVT](https://www.iikx.com/sci/technology/13003.html), [TIFS](https://journalcompass.com/journals/ieee-transactions-on-information-forensics-and-security-15566013.html). Different public directories sometimes put a journal in a different zone because they conflate the official 2025 and independent 2026 lists or use small-category rather than major-category rankings. This audit consistently uses the 2025 major category.
+
+### Corresponding-author markers
+
+The website marks **all positively verified corresponding authors**, including people other than Shuai Xiao. An unmarked name is *unresolved*, not a verified non-corresponding author. Three newly added markers are: Zhuo Zhang on the 2026 ICML stenosis-editing paper ([author manuscript](https://arxiv.org/html/2605.08851)); Kangjun Jin alongside Shuai Xiao on the 2026 ICML scChord paper ([proceedings PDF](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26bz/zhang26bz.pdf)); and Zhuo Zhang on the 2026 AAAI translational-correction paper ([AAAI PDF](https://ojs.aaai.org/index.php/AAAI/article/download/37253/41215)). The earlier Xiao markers on ICLR 2025, AAAI 2024, TCSVT 2022 and TIFS 2021 remain supported by the sources in the historical table below. The accessible IEEE/Elsevier metadata pages for the other retained journal papers do not establish *every* corresponding author; manuscript first pages or author confirmation are still needed. Neither author order nor CRediT contribution is used to infer correspondence.
+
+## Historical 32-paper audit (superseded selection)
+
 Reviewed 30 September 2026. This is a verification record for the 32 publications shown on the site, not a claim that every paper is itself “top” within its venue. The inclusion rule is publication year 2021 or later **and** either a journal in JCR JIF Q1 (in at least one category) / CAS Zone 1, or a full paper at a CCF A conference in the 2026 seventh edition. A journal's quartile can change by year and category; the source and year used are noted below. Author position is not an inclusion rule.
 
 ## Classification sources
