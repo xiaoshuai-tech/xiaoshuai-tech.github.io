@@ -60,7 +60,7 @@ sections:
       text: |-
         <h2 id="publications-title">Publications</h2>
         <p class="publication-intro">Selected publications in first-quartile journals or A-tier conferences since 2021, ordered by year and then by venue prominence. <a href="https://scholar.google.com/citations?user=A52OoroAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>.</p>
-        <p class="publication-note">First quartile refers to JCR Q1 or CAS Zone 1; A-tier conferences follow the 2026 CCF seventh edition. Publication years follow journal volumes where available; conference papers use the conference year. <strong>Shuai Xiao</strong>* denotes a corresponding-author attribution supported by the paper or university profile; an unmarked name makes no claim about that role. Click a title or [Paper] to open the article.</p>
+        <p class="publication-note">First quartile refers to JCR Q1 or CAS Zone 1; A-tier conferences follow the 2026 CCF seventh edition. Publication years follow journal volumes where available; conference papers use the conference year. Click a title or [Paper] to open the article.</p>
         <h3 class="publication-year" id="publications-2026">2026</h3>
         <ol class="publication-list" start="1">
         <li class="publication-item" data-year="2026">
