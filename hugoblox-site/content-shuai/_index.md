@@ -60,8 +60,8 @@ sections:
       text: |-
         <h2 id="publications-title">Publications</h2>
         <p class="publication-intro">Selected publications, listed from recent to earlier work. <a href="https://scholar.google.com/citations?user=A52OoroAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>.</p>
-        <p class="publication-note">The list primarily features CAS Zone 1 journals and A-tier conferences. Click a title or [Paper] to open the article.</p>
-        <ol class="publication-list">
+        <h3 class="publication-year">2026</h3>
+        <ol class="publication-list" start="1">
         <li class="publication-item">
         <h4><a href="https://icml.cc/virtual/2026/poster/62334" target="_blank" rel="noopener noreferrer">Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport</a></h4>
         <p class="authors">Jialin Li, Zhuo Zhang, Yue Cao, Guipeng Lan, Jiabao Wen, <strong>Shuai Xiao</strong>*, Jiachen Yang.</p>
@@ -82,7 +82,7 @@ sections:
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/TIP.2026.3736325" target="_blank" rel="noopener noreferrer">Unsupervised Component Decoupling for Fine-Grained Information Quality Evaluation</a></h4>
-        <p class="authors">Jiasai Wu, <strong>Shuai Xiao</strong>*, Zhuo Zhang, Jiabao Wen, Baihua Li, Qinggang Meng, Wen Lu, Jiachen Yang, Xinbo Gao.</p>
+        <p class="authors">Jiasai Wu, <strong>Shuai Xiao</strong>, Zhuo Zhang, Jiabao Wen, Baihua Li, Qinggang Meng, Wen Lu, Jiachen Yang, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Image Processing, Early Access</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/TIP.2026.3736325" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Unsupervised Component Decoupling for Fine-Grained Information Quality Evaluation">[Paper]</a></p>
         </li>
@@ -110,6 +110,9 @@ sections:
         <p class="venue"><em>Engineering Applications of Artificial Intelligence</em>, 178: 115050.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.engappai.2026.115050" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Learning-Aided Equivariant Filtering on the Special Euclidean Group for Underwater Navigation Sensor Fusion">[Paper]</a></p>
         </li>
+        </ol>
+        <h3 class="publication-year">2025</h3>
+        <ol class="publication-list" start="9">
         <li class="publication-item">
         <h4><a href="https://proceedings.iclr.cc/paper_files/paper/2025/hash/0f8426558905746fc38da5e335700aec-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Inner Information Analysis Algorithm for Deep Neural Network based on Community</a></h4>
         <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Meng Xi, Jiabao Wen, Jiachen Yang.</p>
@@ -140,6 +143,9 @@ sections:
         <p class="venue"><em>Expert Systems with Applications, 277: 127207</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.eswa.2025.127207" target="_blank" rel="noopener noreferrer" aria-label="Read paper: DD-MID: An Innovative Approach to Assess Model Information Discrepancy Based on Deep Dream">[Paper]</a></p>
         </li>
+        </ol>
+        <h3 class="publication-year">2024</h3>
+        <ol class="publication-list" start="14">
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1609/aaai.v38i12.29234" target="_blank" rel="noopener noreferrer">Generative Model Perception Rectification Algorithm for Trade-Off between Diversity and Quality</a></h4>
         <p class="authors">Guipeng Lan, <strong>Shuai Xiao</strong>*, Jiachen Yang, Jiabao Wen.</p>
@@ -166,7 +172,7 @@ sections:
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/TMM.2024.3371192" target="_blank" rel="noopener noreferrer">Say No to Redundant Information: Unsupervised Redundant Feature Elimination for Active Learning</a></h4>
-        <p class="authors">Jiachen Yang, Shukun Ma, Zhuo Zhang, Yang Li, <strong>Shuai Xiao</strong>*, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
+        <p class="authors">Jiachen Yang, Shukun Ma, Zhuo Zhang, Yang Li, <strong>Shuai Xiao</strong>, Jiabao Wen, Wen Lu, Xinbo Gao.</p>
         <p class="venue"><em>IEEE Transactions on Multimedia, 26: 7721–7733</em>.</p>
         <p class="paper-links"><a href="https://doi.org/10.1109/TMM.2024.3371192" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Say No to Redundant Information: Unsupervised Redundant Feature Elimination for Active Learning">[Paper]</a></p>
         </li>
@@ -184,10 +190,13 @@ sections:
         </li>
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1016/j.engappai.2024.109044" target="_blank" rel="noopener noreferrer">Curvature Index of Image Samples Used to Evaluate the Interpretability Informativeness</a></h4>
-        <p class="authors">Zhuo Zhang, <strong>Shuai Xiao</strong>, Meng Xi, Jiabao Wen, Jiachen Yang.</p>
+        <p class="authors">Zhuo Zhang, <strong>Shuai Xiao</strong>*, Meng Xi, Jiabao Wen, Jiachen Yang.</p>
         <p class="venue"><em>Engineering Applications of Artificial Intelligence</em>, 137: 109044.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.engappai.2024.109044" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Curvature Index of Image Samples Used to Evaluate the Interpretability Informativeness">[Paper]</a></p>
         </li>
+        </ol>
+        <h3 class="publication-year">2023</h3>
+        <ol class="publication-list" start="22">
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/JAS.2023.123117" target="_blank" rel="noopener noreferrer">Multi-AUV Inspection for Process Monitoring of Underwater Oil Transportation</a></h4>
         <p class="authors">Jingyi He, Jiabao Wen, <strong>Shuai Xiao</strong>, Jiachen Yang.</p>
@@ -200,6 +209,9 @@ sections:
         <p class="venue"><em>Information Sciences</em>, 634: 1–13.</p>
         <p class="paper-links"><a href="https://doi.org/10.1016/j.ins.2023.03.006" target="_blank" rel="noopener noreferrer" aria-label="Read paper: Manipulation Detection of Key Populations under Information Measurement">[Paper]</a></p>
         </li>
+        </ol>
+        <h3 class="publication-year">2022</h3>
+        <ol class="publication-list" start="24">
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/tcsvt.2021.3133859" target="_blank" rel="noopener noreferrer">MSTA-Net: Forgery Detection by Generating Manipulation Trace Based on Multi-Scale Self-Texture Attention</a></h4>
         <p class="authors">Jiachen Yang, <strong>Shuai Xiao</strong>*, Aiyun Li, Wen Lu, Xinbo Gao, Yang Li.</p>
@@ -212,6 +224,9 @@ sections:
         <p class="venue"><em>Proceedings of the 2nd Workshop on Quality of Experience in Visual Multimedia Applications (QoEVMA at ACM Multimedia)</em>, pp. 39–47.</p>
         <p class="paper-links"><a href="https://doi.org/10.1145/3552469.3555711" target="_blank" rel="noopener noreferrer" aria-label="Read paper: No-Reference Quality Assessment of Stereoscopic Video Based on Deep Frequency Perception">[Paper]</a></p>
         </li>
+        </ol>
+        <h3 class="publication-year">2021</h3>
+        <ol class="publication-list" start="26">
         <li class="publication-item">
         <h4><a href="https://doi.org/10.1109/tifs.2021.3102487" target="_blank" rel="noopener noreferrer">MTD-Net: Learning to Detect Deepfakes Images by Multi-Scale Texture Difference</a></h4>
         <p class="authors">Jiachen Yang, Aiyun Li, <strong>Shuai Xiao</strong>*, Wen Lu, Xinbo Gao.</p>
